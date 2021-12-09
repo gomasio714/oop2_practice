@@ -1,7 +1,7 @@
 import modules.SayHello as App
 
 def run():
-    app = App.SayHell("Git")
+    app = App.SayHell("GitHub")
     app.say()
 
 
